@@ -1,0 +1,1135 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 1680px;
+    height: 11433px;
+    background: #FFFFFF;
+}
+
+.milk {
+    width: 1680px;
+    height: 945px;
+    background-image: url(./01\ 1.png);
+}
+.logo {
+    display: flex;
+    bottom: 99.42%;
+    position: absolute;
+    width: 193px;
+    height: 43px;
+    left: 291px;
+    top: 32px;
+}
+.logo h2 {
+    position: absolute;
+    width: 193px;
+    height: 43px;
+    left: 125px;
+    top: -5px;
+
+    /* Desk — Notes */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+.nambe h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    width: 204px;
+    height: 36px;
+    left: 1073px;
+    top: 21px;
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 140%;
+    
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 15px;
+    color: #FFFFFF;
+
+}
+.fb {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 1300px;
+    top: 39px;
+}
+.ig {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 1359px;
+    top: 39px;
+}
+.port {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 23px 47px;
+    gap: 10px;
+
+    position: absolute;
+    width: 186px;
+    height: 71px;
+    left: 285px;
+    top: 565px;
+
+    background: #FFFFFF;
+    border-radius: 40px;
+}
+.zayav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 23px 47px; */
+    gap: 10px;
+
+    position: absolute;
+    width: 228px;
+    height: 71px;
+    left: 491px;
+    top: 565px;
+
+    background: #FFFFFF;
+    border-radius: 40px;
+}
+
+.knopka h2{
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    color: #181818;
+}
+.predlog {
+    position: absolute;
+    width: 560px;
+    height: 98px;
+    left: 285px;
+    top: 344px;
+
+    font-family: '20 Kopeek Book';
+    font-size: 47px;
+    line-height: 100%;
+    /* or 55px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.utver {
+    position: absolute;
+    width: 528px;
+    height: 28px;
+    left: 285px;
+    top: 472px;
+
+    /* Tab — H2 */
+
+    font-family: '20 Kopeek Book';
+    font-size: 34px;
+    line-height: 110%;
+    /* or 37px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.str2 img{
+    position: absolute;
+    width: 635px;
+    height: 381px;
+    left: 285px;
+    top: 1072px;
+}
+.text_nia_img {
+    position: absolute;
+    width: 445px;
+    height: 400px;
+    left: 950px;
+    top: 1062px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+.pod {
+    position: absolute;
+    width: 1162px;
+    height: 165px;
+    left: 285px;
+    top: 1603px;
+
+    /* Desk — H1 */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 100%;
+    /* or 55px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+.a123 {
+    width: 1160px;
+    height: 260px;
+    margin-left: 285px;
+    margin-top: 933px;
+    
+}
+.a123 ul {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    /* line-height: 140%; */
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.a123 span {
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 100%;
+    margin-right: 15px;
+}
+.firm_styl .img1 {
+    position: absolute;
+    width: 634px;
+    height: 394px;
+    left: 761px;
+    top: 2238px;
+    background-image: url(./Rectangle\ 20.png);
+   
+}
+
+.firm_styl .zagolov {
+    position: absolute;
+    width: 660px;
+    height: 42px;
+    left: 761px;
+    top: 2151px;
+
+    /* Desk — H2 */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 110%;
+    /* identical to box height, or 42px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.firm_styl .opisanie {
+    position: absolute;
+    width: 396px;
+    height: 400px;
+    left: 283px;
+    top: 2238px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.firm_styl .opoisanne_blu {
+    position: absolute;
+    width: 416px;
+    height: 93px;
+    left: 270px;
+    top: 2556px;
+
+    /* Blue */
+
+    background: #2B59C3;
+    border-radius: 5px;
+}
+
+.amperia_img .img_glav {
+    position: absolute;
+    width: 1110px;
+    height: 655px;
+    left: 285px;
+    top: 2782px;
+
+    background: url(./amperia.png);
+}
+
+.amperia_img .zagolov {
+    /* Amperia */
+
+
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 100%;
+    /* or 55px */
+    position: absolute;
+    left: 285px;
+    top: 3500px;
+
+
+    /* Black */
+
+    color: #181818;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.amperia_img span {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 0px;
+    top: 70px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+} 
+.amperia_img .knopka_smotr {
+    /* Frame 4 */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 23px 47px;
+    gap: 10px;
+
+    width: 231px;
+    height: 71px;
+
+    position: absolute;
+    left: 570px;
+    top: 3500px;
+
+    /* Black */
+
+    border: 1px solid #181818;
+    border-radius: 40px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    color: #181818;
+}
+/* ===================================== */
+.aq_life_img .img_glav {
+    position: absolute;
+    width: 1110px;
+    height: 655px;
+    left: 285px;
+    top: 3693px;
+
+    background: url(./amperia2.png);
+}
+
+.aq_life_img .zagolv {
+    /* AQ.Lifecare */
+
+
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 100%;
+    /* or 55px */
+    position: absolute;
+    left: 285px;
+    top: 4409px;
+
+
+    /* Black */
+
+    color: #181818;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.aq_life_img span {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 0px;
+    top: 70px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+} 
+.aq_life_img .knopka_smotr {
+    /* Frame 4 */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 23px 47px;
+    gap: 10px;
+
+    width: 231px;
+    height: 71px;
+
+    position: absolute;
+    left: 642px;
+    top: 4409px;
+
+    /* Black */
+
+    border: 1px solid #181818;
+    border-radius: 40px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    color: #181818;
+}
+/* ======================================== */
+
+.vilata_img .img_glav {
+    position: absolute;
+    width: 1110px;
+    height: 655px;
+    left: 285px;
+    top: 4604px;
+
+    background: url(./amperia3.png);
+}
+
+.vilata_img .zagolv {
+    /* vilata */
+
+
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 100%;
+    /* or 55px */
+    position: absolute;
+    left: 285px;
+    top: 5303px;
+
+
+    /* Black */
+
+    color: #181818;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.vilata_img span {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 0px;
+    top: 70px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+} 
+.vilata_img .knopka_smotr {
+    /*   */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 23px 47px;
+    gap: 10px;
+
+    width: 231px;
+    height: 71px;
+
+    position: absolute;
+    left: 504px;
+    top: 5297px;
+
+    /* Black */
+
+    border: 1px solid #181818;
+    border-radius: 40px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    color: #181818;
+}
+
+.color_blec_img .img_glav {
+    position: absolute;
+    width: 1110px;
+    height: 655px;
+    left: 285px;
+    top: 5515px;
+
+    background: url(./amperia4.png);
+}
+
+.color_blec_img .zagolv {
+    /* color_blec_img */
+
+
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 100%;
+    /* or 55px */
+    position: absolute;
+    left: 285px;
+    top: 6208px;
+
+
+    /* Black */
+
+    color: #181818;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.color_blec_img span {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 0px;
+    top: 70px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+} 
+.color_blec_img .knopka_smotr {
+    /*   */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 23px 47px;
+    gap: 10px;
+
+    width: 231px;
+    height: 71px;
+
+    position: absolute;
+    left: 636px;
+    top: 6208px;
+
+    /* Black */
+
+    border: 1px solid #181818;
+    border-radius: 40px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    color: #181818;
+}
+
+.knopka_pokaz_eshe {
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 23px 47px;
+    gap: 10px;
+
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    left: 635px;
+    top: 6379px;
+
+    /* Blue */
+
+    background: #2B59C3;
+    border-radius: 40px;
+
+    
+
+ }
+ .knopka_pokaz_eshe h3 {
+    width: 156px;
+    height: 29px;
+
+    /* Desk — H3 */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 110%;
+    /* identical to box height, or 29px */
+
+
+    /* White */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+ }
+
+ .glav_pod_zagolov h2 {
+    /* Гайдлайны в подарок */
+
+
+    position: absolute;
+    width: 800px;
+    height: 42px;
+    left: 285px;
+    top: 6504px;
+
+    /* Desk — H2 */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 110%;
+    /* identical to box height, or 42px */
+
+
+    /* Black */
+
+    color: #181818;
+ }
+
+.glav_pod_zagolov .img_glav {
+    /* Rectangle 69 */
+
+
+    position: absolute;
+    width: 635px;
+    height: 439px;
+    left: 285px;
+    top: 6611px;
+
+    background: url(./Rectangle\ 69.png);
+}
+
+.glav_pod_zagolov .opisanie_blu {
+    position: absolute;
+    width: 459px;
+    height: 230px;
+    left: 936px;
+    top: 6611px;
+    
+    /* Blue */
+    
+    background: #2B59C3;
+    border-radius: 5px;
+}
+
+.glav_pod_zagolov h3 {
+    
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 110%;
+    /* or 29px */
+
+    margin-left: 15px;
+    margin-top: 10px;
+
+
+    /* White */
+
+    color: #FFFFFF;
+}
+.glav_pod_zagolov span {
+    font-size: 18px;
+}
+
+.glav_pod_zagolov2{
+    position: absolute;
+    width: 431px;
+    height: 171px;
+    left: 950px;
+    top: 6856px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.ostav_zayav h2 {
+    /* Оставьте заявку на разработку вашего продукта */
+
+
+    position: absolute;
+    width: 841px;
+    height: 42px;
+    left: 285px;
+    top: 7127px;
+
+    /* Desk — H2 */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 110%;
+    /* identical to box height, or 42px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.ostav_zayav h3 {
+    /* Наши эксперты свяжутся с вами в ближайшее время */
+
+
+    position: absolute;
+    width: 612px;
+    height: 32px;
+    left: 288px;
+    top: 7180px;
+
+    /* Desk — H3 */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 110%;
+    /* or 29px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.ostav_zayav .yor_name h3 {
+    /* Ваше Имя */
+
+
+    position: absolute;
+    width: 84px;
+    height: 25px;
+    left: 314px;
+    top: 7262px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Dark grey */
+
+    color: #868686;
+
+    
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 350px;
+    height: 71px;
+    left: 285px;
+    top: 7239px;
+
+    /* Black */
+
+    border: 1px solid #181818;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ostav_zayav .yor_nambe h3{
+    /* +7 (999) 999-99-99 */
+
+
+    position: absolute;
+    width: 172px;
+    height: 25px;
+    left: 694px;
+    top: 7262px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* Dark grey */
+
+    color: #868686;
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 350px;
+    height: 71px;
+    left: 665px;
+    top: 7239px;
+
+    /* Black */
+
+    border: 1px solid #181818;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ostav_zayav .knopka_ost_zayav h3 {
+    
+    left: 1045px;
+    top: 7239px;
+
+    /* Оставить заявку */
+
+
+
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    /* White */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+
+    gap: 10px;
+
+    position: absolute;
+    width: 228px;
+    width: 228px;
+    height: 71px;
+    top: 7239px;
+
+    /* Blue */
+
+    background: #2B59C3;
+    border-radius: 40px;
+}
+
+.soglash .galochka {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 288px;
+    top: 7350px;
+
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.soglash h3 {
+
+    
+    position: absolute;
+    width: 436px;
+    height: 25px;
+    left: 317px;
+    top: 7331px;
+
+    /* Desk — Body */
+
+    font-family: '20 Kopeek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+    /* Black */
+
+    color: #181818;
+}
+
+.soglash span {
+    color: #2B59C3;
+}
+
+
+.styl_gayd .zagolov {
+    position: absolute;
+    width: 1162px;
+    height: 152px;
+    left: 285px;
+    top: 7506px;
+
+    /* Desk — H1 */
+
+    font-family: '20 Kopeek Book';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* or 55px */
+
+
+    /* Black */
+
+    color: #181818;
+}
+
+.styl_gayd .obsh_blok {
+    width: 1000px;
+    height: 700px;
+    border: 3px solid red;
+    margin-top: 5601px;
+    margin-left: 285px;
+}
+
+.styl_gayd .blok1 img {
+    position: absolute;
+    width: 82px;
+    height: 87.02px;
+    left: 285px;
+    top: 7743.03px;
+}
+
+.styl_gayd .blok2 img {
+    height: 70.0px;
+    width: 84.1px;
+    left: 285px;
+    top: 7982.0px;
+    border-radius: 0px;
+}
+
+.styl_gayd .blok3 img {
+    height: 83.021484375px;
+    width: 60px;
+    left: 285px;
+    top: 8236.1611328125px;
+    border-radius: 0px;
+
+}
+
+.styl_gayd .blok1_h3_opis {
+    position: absolute;
+    left: 285px;
+    top: 7853px;
+
+}
+
+.styl_gayd .blok2_h3_opis {
+    position: absolute;
+    height: 58px;
+    width: 283px;
+    left: 285px;
+    top: 8075px;
+
+
+}
+
+.styl_gayd .blok3_h3_opis {
+    position: absolute;
+    height: 29px;
+    width: 255px;
+    left: 285px;
+    top: 8342px;
+    
+
+}
+
+
